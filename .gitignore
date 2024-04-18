@@ -1332,3 +1332,5 @@ csv_chunks/chunk_7.csv
 csv_chunks/chunk_8.csv
 csv_chunks/chunk_9.csv
 wiki_syno_sentences.csv
+*.csv
+*.txt
